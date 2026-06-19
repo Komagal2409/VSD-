@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "VsdApi\\VsdApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VsdDesktop\\VsdDesktop.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
